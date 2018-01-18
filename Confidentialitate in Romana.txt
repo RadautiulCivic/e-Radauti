@@ -1,0 +1,57 @@
+﻿Termeni de confidențialitate
+ 
+Grupul independent ”Rădăuțiul Civic” a construit gratuit și voluntar aplicația ”e-Rădăuți”. Aplicația este oferită gratuit și trebuie să fie folosită așa.
+
+
+Aplicația este un instrument mobil de facilitare a comunicării dintre localnici și grupul ”Rădăuțiul Civic”. Rolul comunicării este de implicare civică, de raportare sau pentru simplu contact. În cele mai multe cazuri, informațiile vor fi direcționate către adresa noastră de e-mail: radautiulcivic@gmail.com Pe lângă aceasta, aplicația conține instrumente care pot fi folosite pentru a-i ajuta pe potențialii turiști să cunoască obiectivele turistice ale orașului.
+
+
+Dacă alegi să folosești aplicația noastră, accepți faptul că vom colecta și folosi informații care au legătură cu acești termeni. Informațiile personale colectate vor fi folosite atunci când se transmit cereri sau plângeri către autoritățile locale și/sau către entitățile afișate în aplicație. Instrumentele de comunicare deschisă (ex. Discuții cu localnici) între utilizatorii aplicației afișează public, pe lângă altele, adresa de e-mail sau numele complet.
+
+
+Informațiile nu vor fi distribuite public și nu vor fi publicate decât în condițiile specificate în ”termenii de confidențialitate”. ”Termenii de confidențialitate” sunt complementari documentului cu ”Termeni și Condiții”, care poate fi accesat în interiorul aplicației. 
+
+
+Colectarea și folosirea informațiilor
+Atunci când folosești aplicația noastră, va trebui să ne dați permisiunea de a folosi, pe lângă altele, anumite informații legate de identitate personală precum camera telefonului sau a tabletei dar și a poziției pe GPS.
+Aplicația folosește servicii terțe care ar putea colecta informații folosite pentru a te identifica. Legături către termeni de confidențialitate folosiți de aplicație:
+
+
+Servicii Google Play
+Logarea datelor
+Îți aducem la cunoștință că de fiecare dată când folosești aplicația, informații și date din telefon sunt colectate prin produsele terțe și transmite în caz de erori în date de logare. Datele de logare pot conține informații precum adresa protocolului de internet (”IP”), numele dispozitivului, versiunea sistemului de operare, configurația aplicației atunci când folosești instrumentele noastre, data și ora folosirii aplicației dar și alte date statistice.
+
+
+Cookies
+Cookie-urile sunt fișiere ce conțin cantități mici de date ce sunt folosite drept identificator anonim unic. Acestea sunt trimise către browser de la website-ul pe care îl vizitezi și sunt stocate în memoria internă a dispozitivului. Acest serviciu nu folosește cookie-uri explicit. Cu toate acestea, aplicația poate folosi cod third-party și librării care folosesc cookie-uri ca să colecteze informații și să își îmbunătățească serviciile. Ai opțiunea atât să accepți cât și să refuzi aceste cookie-uri și mai mult, să știi când pe dispozitivul tău sunt trimise cookie-urile. Dacă refuzi să le folosești, nu vei putea folosi decât anumite părți ale serviciilor.
+
+
+Provideri de serviciu
+Putem angaja companii terțiare și persoane fizice din următoarele motive:
+- să facilităm serviciul proprii
+- să furnizăm utilizatorilor servicii terțiare (ex. Reciclare)
+- să furnizăm serviciul în numele nostru
+- să efectuăm servicii legate de serviciul nostru
+- să fim asistați pentru a analiza cum e folosit serviciul nostru
+
+
+Vrem să informăm utilizatorii aplicației că aceste third-party-uri au acces la informațiile personale. Motivul pentru care am putea face asta este ca să efectueze anumite sarcini în numele nostru. Cu toate acestea, sunt obligate să nu dezvăluie sau să folosească informația în alte scopuri
+
+
+Securitate
+Apreciem încrederea ta atunci când ne oferi informații personale. De aceea încercăm să folosim mijloace acceptabile din punct de vedere comercial ca să o protejăm. Cu toate astea, trebuie să ții cont că nicio metodă de transmisie prin internet sau de stocare electronică nu este 100% sigură, și nu putem garanta securitatea ei absolută.
+
+
+Linkuri către alte siteuri sau către alți provideri de serviciu
+Această aplicație conține linkuri și formulare de contact către alte siteuri sau provideri de servicii. Dacă dai click pe un link terțiar, vei fi redirecționat către acel site. Formularele de contact care sunt completate de utilizator pentru un serviciu terțiar vor fi trimise direct către providerul de servicii third-party. Reamintim că noi nu acționam cu aceste site-uri externe. Prin urmare îți recomandăm să citești politica de confidențialitate a acestor site-uri. Nu avem niciun control și nu ne asumăm nicio responsabilitate asupra conținutului, termenilor de confidențialitate sau practicile oricărui site terțiar sau serviciu.
+
+
+Confidențialitatea copiilor
+Aceste servicii nu se adresează persoanelor sub 13 ani. Nu colectăm voit informații care identifică personal copii sub 13 ani. În cazul în care descoperim că un copil sub 13 ani ne-a oferit informații personale, o vom șterge imediat de pe serverele noastre. Dacă ești părinte sau gardian sau dacă ești conștient că ne-au fost oferite informații personale de la copilul tău, te rugăm să ne contactezi cât mai rapid ca să luăm măsurile necesare.
+
+
+Schimbări în politica de confidenţialitate
+Ori de câte ori va fi necesar, vom putea actualiza politica noastră de confidențialitate. În consecință te sfătuim să revii pe această pagină periodic în caz că apar unele schimbări. Vei primi notificări când vor apărea modificări în politica noastră de confidențialitate. Aceste schimbări intră în vigoare imediat ce sunt postate pe această pagină.
+ 
+Contactează-ne
+Dacă ai întrebări sau sugestii referitoare la termenii noștri de confidențialitate, nu ezita să ne contactezi la adresa radautiulcivic@gmail.com .
