@@ -1,46 +1,54 @@
-﻿Privacy Policy
+Termeni de confidențialitate
+ 
+Grupul independent ”Rădăuțiul Civic” a construit gratuit și voluntar aplicația ”e-Rădăuți”. Aplicația este oferită gratuit și trebuie să fie folosită așa.
 
-The independent group Radautiul Civic voluntarily built “e-Radauti” app as a free app. The app is provided by Radautiul Civic at no cost and is intended for use as is. 
+Aplicația este un instrument mobil de facilitare a comunicării dintre localnici, instituțiile locale și grupul ”Rădăuțiul Civic”. Rolul comunicării este de implicare civică sau de raportare a diferitelor probleme întâlnite în societate. În funcție de opțiunea accesată, informațiile pe care utilizatorul la va introduce în diferitele formulare vor fi direcționate către adresa noastră de e-mail oferită de serviciul Google Mail: radautiulcivic@gmail.com sau către instituțiile locale precum Primaria Radauti, Servicii Comunale, ACET Radauti, Consiliul Judetean Suceava, Garda De Mediu Suceava, Garda Forestiera Suceava etc. Când datele sunt trimise către ”Rădăuțiul Civic”, ele vor fi stocate pe serverul adresei de e-mail, de aceea recomandăm vizitarea <a href="https://policies.google.com/privacy"> politicii de confidențialitate a Google Inc </a>. Când sunt trimise către instituțiile publice, ele vor fi stocate pe serverele dedicate, fără a fi procesate sau stocate de către ”Rădăuțiul Civic”. Recomandăm contactarea agențiilor în legătură cu stocarea datelor.
 
-The app is built to serve as a mobile instrument to facilitate the communication between the locals and Radautiul Civic group. The communication will be used for civic actions, reports and/or simple contact. Most of the information will be directed to our e-mail address: radautiulcivic@gmail.com Additionally, the app contains instruments which can be used for helping the potential tourists to explore the city’s landmarks. 
+Dacă alegi să folosești aplicația noastră, accepți faptul că vom colecta și folosi informații care au legătură cu acești termeni. Informațiile personale colectate vor fi folosite atunci când se transmit cereri sau plângeri către ”Rădăuțiul Civic”. Opțiuni precum Sesizează o problemă trimit datele personale (numele și prenumele, adresa de e-mail, numărul de telefon și locația) către adresa de e-mail radautiulcivic@gmail.com (când este trimisă către ”Rădăuțiul Civic”) la care au acces membrii grupului ”Rădăuțiul Civic” sau către relatiipublice@primariaradauti.ro, office@serviciicomunale.ro, agentia.radauti@acetsv.ro, contact@cjsuceava.ro, cjsuceava@gnm.ro, gardaforestiera.suceava@gmail.com pentru agențiile publica la care vor avea acces diferite persoane publice angajate la agențiile respective. 
+Opțiunea de contactare a persoanelor de la conducere (Primar, Viceprimar, Secretar sau Consilieri) se va realiza folosind adresa de e-mail a persoanei selectate, folosind numărul de telefon sau adresa de Facebook. Datele trimise către fiecare persoană din conducere vor fi stocate și procesate de către aceștia, ceea ce înseamnă că ”Rădăuțiul Civic” nu are niciun control asupra felului în care sunt folosite. Pentru a afla cum sunt procesate, vă recomandăm să îi contactați în privat pe fiecare. 
 
-If you choose to use our app, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used when transmitting the requests and complaints to local authorities and/or other entities listed in the app. Open communication instruments inside the app (such as “Chat”) between the users might include but not limited to the public display of e-mail address and full name. 
+Rădăuțiul Civic se angajează să protejeze datele cu caracter personal furnizate de persoanele sau companiile cu care colaborează. Pentru a ne asigura că datele dvs. personale sunt în siguranță, comunicăm în mod regulat politica de protecție a datelor cu caracter personal precum și instrucțiunile de lucru referitoare la acest aspect, tuturor utilizatorilor aplicației și urmărim aplicarea cu strictețe a măsurilor de protecție a vieții private în cadrul organizației.
 
-We will not use or share the information with anyone except as described in this Privacy Policy. 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible inside the app unless otherwise defined in this Privacy Policy. 
-Information Collection and Use
+Această politică de protecție a datelor cu caracter personal descrie practicile noastre privind colectarea, utilizarea și transferul datelor comunicate direct sau indirect organizației noastre, precum și modul de utilizare a datelor cu caracter personal în scopul furnizării serviciilor.
 
-While using our app, we may require you to provide us with certain personally identifiable information, including but not limited to phone or tablet’s camera and global position. The information that we request will be retained by us and used as described in this privacy policy. 
-The app does use third-party services that may collect information used to identify you. 
-Link to the privacy policy of third party service providers used by the app:
+Dacă, din orice motiv, termenii stabiliți în cadrul acestor condiții de utilizare a datelor cu caracter personal, nu sunt acceptabili pentru dvs., aveți posibilitatea de a ne comunica acest lucru și eventual puteți solicita detalii sau explicit, ștergerea datelor dvs., prin trimiterea mesajului la adresa menționată în preambul (radautiulcivic@gmail.com).
 
-Google Play Services
-Log Data
-We want to inform you that whenever you use our app, in a case of an error in the app, we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our instruments, the time and date of your use of the app, and other statistics. 
+Informațiile nu vor fi distribuite public și nu vor fi publicate decât în condițiile specificate în ”termenii de confidențialitate”.
+
+Colectarea și folosirea informațiilor
+Atunci când folosești aplicația noastră, va trebui să ne dați permisiunea de a folosi, pe lângă altele, anumite informații legate de identitate personală precum camera telefonului sau a tabletei dar și a poziției pe GPS. 
+Aplicația folosește servicii terțe care ar putea colecta informații folosite pentru a te identifica. Legături către termeni de confidențialitate folosiți de aplicație:
+
+Servicii Google Play
+Logarea datelor
+Îți aducem la cunoștință că de fiecare dată când folosești aplicația, informații și date din telefon sunt colectate prin produsele terțe și transmite în caz de erori în date de logare. Datele de logare pot conține informații precum adresa protocolului de internet (”IP”), numele dispozitivului, versiunea sistemului de operare, configurația aplicației atunci când folosești instrumentele noastre, data și ora folosirii aplicației dar și alte date statistice.
 
 Cookies
-Cookies are files with small amount of data that is commonly used a unique anonymous identifier. These are sent to your browser from the website that you visit and are stored in your device internal memory. This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and to improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service. 
+Cookie-urile sunt fișiere ce conțin cantități mici de date ce sunt folosite drept identificator anonim unic. Acestea sunt trimise către browser de la website-ul pe care îl vizitezi și sunt stocate în memoria internă a dispozitivului. Acest serviciu nu folosește cookie-uri explicit. Cu toate acestea, aplicația poate folosi cod terț și librării care folosesc cookie-uri ca să colecteze informații și să își îmbunătățească serviciile. Ai opțiunea atât să accepți cât și să refuzi aceste cookie-uri și mai mult, să știi când pe dispozitivul tău sunt trimise cookie-urile. Dacă refuzi să le folosești, nu vei putea folosi decât anumite părți ale serviciilor.
 
-Service Providers
-We may employ third-party companies and individuals due to the following reasons: 
-- To facilitate our Service; 
-- To provide the users with third-party Services (ex. Recycling)
-- To provide the Service on our behalf;
-- To perform Service-related services; or 
-- To assist us in analyzing how our Service is used.
-We want to inform users of this app that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose. 
+Provideri de serviciu
+Putem angaja companii terțiare și persoane fizice din următoarele motive:
+- să facilităm serviciul proprii
+- să furnizăm utilizatorilor servicii terțiare (ex. reciclare)
+- să furnizăm serviciul în numele nostru
+- să efectuăm servicii legate de serviciul nostru
+- să fim asistați pentru a analiza cum e folosit serviciul nostru
 
-Security
-We value your trust in providing us your Personal Information. Thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security. 
+Servicii terțe
+De cele mai multe ori, datele care sunt destinate serviciilor terțe nu vor fi procesate de către ”Rădăuțiul Civic” ci vor fi redirecționate către providerii de servicii. 
+Vrem să informăm utilizatorii aplicației că aceste servicii terțe au acces la informațiile personale. Motivul pentru care am putea face asta este ca să efectueze anumite sarcini în numele nostru. Cu toate acestea, sunt obligate să nu dezvăluie sau să folosească informația în alte scopuri
 
-Links to Other Sites or Service Providers
-This app contains links and contacts forms to other sites or service providers. If you click on a third-party link, you will be directed to that site. The contact forms that are filled by the user for a third-party service will be sent directly to the third-party Service Provider. Note that that we do not operate these external sites. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services. 
+Securitate
+Apreciem încrederea ta atunci când ne oferi informații personale. De aceea încercăm să folosim mijloace acceptabile din punct de vedere comercial ca să o protejăm. Cu toate astea, trebuie să ții cont că nicio metodă de transmisie prin internet sau de stocare electronică nu este 100% sigură, și nu putem garanta securitatea ei absolută.
 
-Children’s Privacy
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions
+Linkuri către alte siteuri sau către alți provideri de serviciu
+Această aplicație conține linkuri și formulare de contact către alte site-uri sau provideri de servicii. Dacă dai click pe un link terțiar, vei fi redirecționat către acel site. Formularele de contact care sunt completate de utilizator pentru un serviciu terțiar vor fi trimise direct către providerul terț de servicii. Reamintim că noi nu acționăm cu aceste site-uri externe. Prin urmare îți recomandăm să citești politica de confidențialitate a acestor site-uri. Nu avem niciun control și nu ne asumăm nicio responsabilitate asupra conținutului, termenilor de confidențialitate sau practicile oricărui site terțiar sau serviciu.
 
-Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+Confidențialitatea copiilor
+Aceste servicii nu se adresează persoanelor sub 13 ani. Nu colectăm voit informații care identifică personal copii sub 13 ani. În cazul în care descoperim că un copil sub 13 ani ne-a oferit informații personale, o vom șterge imediat de pe serverele noastre. Dacă ești părinte sau gardian sau dacă ești conștient că ne-au fost oferite informații personale de la copilul tău, te rugăm să ne contactezi cât mai rapid ca să luăm măsurile necesare.
 
-Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at radautiulcivic@gmail.com.
+Schimbări în politica de confidenţialitate
+Ori de câte ori va fi necesar, vom putea actualiza politica noastră de confidențialitate. În consecință te sfătuim să revii pe această pagină periodic în caz că apar unele schimbări. Vei primi notificări când vor apărea modificări în politica noastră de confidențialitate. Aceste schimbări intră în vigoare imediat ce sunt postate pe această pagină.
+ 
+Contactează-ne
+Dacă ai întrebări sau sugestii referitoare la termenii noștri de confidențialitate, nu ezita să ne contactezi la adresa radautiulcivic@gmail.com. Tot pe această adresă de e-mail ne puteți solicita ștergerea datelor personale din baza noastră de date. 
